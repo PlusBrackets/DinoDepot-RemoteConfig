@@ -19,7 +19,7 @@
                             "alternateItems": [
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl",
-                                    "quantityPerItem": 1,
+                                    "quantityPerItem": 2,
                                     "maxQuantityPerCycle": 0,
                                     "maxQuantityInTerminal": 0
                                 }
@@ -398,6 +398,92 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.0,
                             "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/Game/Mods/NoUntameables/Eurypterid/Euryp_Character_Tameable.Euryp_Character_Tameable",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 360.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                },
+                {
+                    "intervalSeconds": 1800.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_BP_Tameable.Cnidaria_Character_BP_Tameable",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 180.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "dinoType": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 540.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_AmmoniteBlood.PrimalItemResource_AmmoniteBlood",
+                            "maxQuantityPerCycle": 0,
+                            "maxQuantityInTerminal": 0,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
                             "consumesItems": []
