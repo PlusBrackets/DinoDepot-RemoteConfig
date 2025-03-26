@@ -6,7 +6,7 @@
             "chanceToProduce": 1.0,
             "produces": [
                 {
-                    "intervalSeconds": 240.0,
+                    "intervalSeconds": 1.0,
                     "itemSelectMode": 0,
                     "items": [
                         {
